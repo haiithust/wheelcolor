@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ColorWheel">
+        <attr name="cw_thumbRadius" format="dimension" />
+        <attr name="cw_thumbStrokeColor" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="SegmentColorView">
+        <attr name="sg_color" format="reference|color" />
+    </declare-styleable>
+
+</resources>
